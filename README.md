@@ -12,6 +12,7 @@ The following libraries were used for thie project
 * time
 * scipy
 * seaborn
+* researchpy
 * interpretableai - this package is used for the topic 4 - prescriptive analytics and **requires a LICENSE** ( see https://www.interpretable.ai/products/)
 
 ## Jupyter notebooks
